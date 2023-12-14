@@ -1,0 +1,18 @@
+- Jetstream SetUp
+    - Dark Mode
+    - Font Family SetUp
+    - Language
+    - Profile Fields Update
+    - Create user-nav and admin-nav
+- User / Admin Folder SetUp    
+    - Create User & Admin Folders (incl. app, nav, and footer)
+    - Install Spatie Permissions
+        - Create Roles & Seeder
+        - 
+    - Create AdminPageIndex and UserPageIndex
+    - Create AdminUserIndex with Table
+        - Create Modals - AdminUserCreate and AdminUserUpdate
+    - Create UserPageIndex 
+    - Create UserPostIndex and UserPostShow
+    - SetUp Middleware Routing & Admin route is user dropdown settings
+    - 
